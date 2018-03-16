@@ -1,12 +1,12 @@
 {
-  "name": "ZhuyongNetwork/laravel-u-editor",
+  "name": "zhuyongnetwork/laravel-u-editor",
   "description": "UEditor for laravel5. Support i18n. UEditor is a Rich Text Web Editor From Baidu. 融合阿里云oss",
   "keywords": [
     "laravel",
     "ueditor",
     "laravel-u-editor",
     "laravel5 web text editor",
-    "ZhuyongNetwork",
+    "zhuyongnetwork",
     "steven yang"
   ],
   "license": "MIT",
@@ -25,7 +25,7 @@
   },
   "autoload": {
     "psr-4": {
-      "ZhuyongNetwork\\UEditor\\": "src/"
+      "zhuyongnetwork\\UEditor\\": "src/"
     }
   },
   "minimum-stability": "dev",
